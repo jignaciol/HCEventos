@@ -1,7 +1,12 @@
-Sistema para gestionar las jornadas o eventos especiales del hospital coromoto 
+Sistema para gestionar las jornadas o eventos especiales.
 
-Operaciones que maneja:
+Operaciones que debe manejar:
 
     1.Registro de participantes
+       a. datos personales
+       b. datos de contacto
     2.Registro de eventos
-    3.Manejo de datos de contacto
+    3.Registro de facilitadores
+    4.Registro de personal de protocolo
+    5.Impresion de identificadores
+    
